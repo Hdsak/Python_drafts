@@ -2,3 +2,5 @@
 /NLP_Huawei/nlp-assignment-2-master/models/finetuned_BERT_epoch_3.model
 /NLP_Huawei/nlp-assignment-2-master/models/finetuned_BERT_epoch_4.model
 /NLP_Huawei/nlp-assignment-2-master/models/finetuned_BERT_epoch_5.model
+/django/coolsite/db.sqlite3
+/django/coolsite/params.py
